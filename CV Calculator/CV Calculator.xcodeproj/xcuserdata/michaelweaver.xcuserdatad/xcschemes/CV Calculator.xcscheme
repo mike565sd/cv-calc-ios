@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BFEE741919F9689700B533E0"
+               BlueprintIdentifier = "BFA23E1C19F97C8D00CB9341"
                BuildableName = "CV Calculator.app"
                BlueprintName = "CV Calculator"
                ReferencedContainer = "container:CV Calculator.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BFEE743219F9689700B533E0"
+               BlueprintIdentifier = "BFA23E3319F97C8D00CB9341"
                BuildableName = "CV CalculatorTests.xctest"
                BlueprintName = "CV CalculatorTests"
                ReferencedContainer = "container:CV Calculator.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BFEE743219F9689700B533E0"
+               BlueprintIdentifier = "BFA23E3319F97C8D00CB9341"
                BuildableName = "CV CalculatorTests.xctest"
                BlueprintName = "CV CalculatorTests"
                ReferencedContainer = "container:CV Calculator.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BFEE741919F9689700B533E0"
+            BlueprintIdentifier = "BFA23E1C19F97C8D00CB9341"
             BuildableName = "CV Calculator.app"
             BlueprintName = "CV Calculator"
             ReferencedContainer = "container:CV Calculator.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BFEE741919F9689700B533E0"
+            BlueprintIdentifier = "BFA23E1C19F97C8D00CB9341"
             BuildableName = "CV Calculator.app"
             BlueprintName = "CV Calculator"
             ReferencedContainer = "container:CV Calculator.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BFEE741919F9689700B533E0"
+            BlueprintIdentifier = "BFA23E1C19F97C8D00CB9341"
             BuildableName = "CV Calculator.app"
             BlueprintName = "CV Calculator"
             ReferencedContainer = "container:CV Calculator.xcodeproj">
